@@ -75,7 +75,7 @@ body {
 
 .header .header-container h1 {
   font-family: "Wavehaus";
-  font-size: rem;
+  font-size: 7.5rem;
 }
 
 @media (max-width: 900px) {
