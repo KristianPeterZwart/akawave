@@ -69,18 +69,18 @@ body {
 /* header */
 
 .header {
-  margin: 80px 0;
+  margin: 100px 0;
   z-index: 2 !important;
 }
 
 .header .header-container h1 {
   font-family: "Wavehaus";
-  font-size: 9rem;
+  font-size: 12rem;
 }
 
 @media (max-width: 900px) {
   .header .header-container h1 {
-    font-size: 5.4rem;
+    font-size: 7rem;
   }
 }
 
